@@ -18,13 +18,12 @@ Hey, I'm **Kurapati Manoj Kumar**, a cybersecurity enthusiast passionate about o
 
 I enjoy exploring how systems work, identifying security weaknesses, and understanding the techniques used to assess and strengthen digital environments.
 
-- 🔐 Exploring Application & API Security
+- 🔐 Application Security & API Security
 - ⚔️ Vulnerability Assessment & Penetration Testing
 - 🏢 Active Directory Security
 - 🌐 Web Application Security
 - 🐍 Python-based Security Automation
-- 🔬 Offensive Security Research
-- 🧪 Building Practical Security Labs
+- 🔬 Security Research
 
 ```bash
 $ whoami
@@ -116,8 +115,6 @@ Sharing ideas, exploring technology, and documenting my learning journey.
 
 <div align="center">
 
-**Curiosity is my exploit. Knowledge is my payload.**
-
-*404: Boring personality not found.*
+*404: Boring personality
 
 </div>
